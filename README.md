@@ -1,2 +1,17 @@
-# Simpe-ToDoApp
-A simple To-Do app built with Flutter to manage daily tasks efficiently. Users can add, complete, and delete tasks with real-time updates. Developed using widgets like Scaffold, ListView, TextField, and FloatingActionButton. Demonstrates Flutter UI design, state management, and CRUD basics.
+# todo_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
